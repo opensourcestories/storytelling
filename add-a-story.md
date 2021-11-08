@@ -1,14 +1,14 @@
 # How to add a story
 
-Once you have a transcript for the story, follow these steps to add it to [opensourcestories.org](https://opensourcestories.org). These instructions assume that you have followed the [setup instructions](https://github.com/opensourcestories/opensourcestories.org#setup).
+Once you have a transcript *and* have uploaded a draft to to StoryCorps Connect, follow these steps to add it to [opensourcestories.org](https://opensourcestories.org). These instructions assume that you have followed the [setup instructions](https://github.com/opensourcestories/opensourcestories.org#setup).
 
-## Fork and branch
+## 1. Fork and branch
 
 Fork [opensourcestories/opensourcestories.org](https://github.com/opensourcestories/opensourcestories.org) into your own GitHub account. If you already have a fork, you may want to make sure it is up-to-date.
 
 We recommend creating a new branch for the new story, but this is optional.
 
-## Create a new content page
+## 2. Create a new content page
 
 To generate a markdown file with the correct front matter, use the `hugo` command from the root directory:
 
@@ -29,7 +29,7 @@ draft: true
 ---
 ```
 
-## Filling out the page
+## 3. Filling out the page
 
 *title*: page title
 
@@ -39,7 +39,7 @@ draft: true
 
 *storyteller*: the person telling the story
 
-*storycorps*: the URL `https://archive.storycorps.org/embed/{story id}`
+*storycorps*: the URL `https://archive.storycorps.org/embed/{story id}`, where the {story id} is the numberic portion of your uploaded StoryCorps interview ID
 
 *bio*: the 2-3 sentence bio that the storyteller provided
 
@@ -47,7 +47,7 @@ draft: true
 
 Under the `---`, paste the markdown of the transcript.
 
-## Test it out
+## 4. Test it out
 
 Run the local server using the command:
 
@@ -57,6 +57,6 @@ $ hugo server -D
 
 and navigate to `localhost:1313` (or whichever port Hugo tells you).
 
-## Submit it to the repo
+## 5. Submit it to the repo
 
 Once you're happy with it, make sure to set the `draft` to false, and push the changes to your fork. From there, submit a pull request to the main repository!
