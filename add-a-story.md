@@ -39,7 +39,7 @@ draft: true
 
 *storyteller*: the person telling the story
 
-*storycorps*: the URL `https://archive.storycorps.org/embed/{story id}`, where the {story id} is the numberic portion of your uploaded StoryCorps interview ID
+*storycorps*: the URL `https://archive.storycorps.org/embed/{story id}`, where the {story id} is the numeric portion of your uploaded StoryCorps interview ID
 
 *bio*: the 2-3 sentence bio that the storyteller provided
 
