@@ -4,9 +4,17 @@ Once you have a transcript *and* have uploaded a draft to to StoryCorps Connect,
 
 ## 1. Fork and branch
 
-Fork [opensourcestories/opensourcestories.org](https://github.com/opensourcestories/opensourcestories.org) into your own GitHub account. If you already have a fork, you may want to make sure it is up-to-date.
+- Fork [opensourcestories/opensourcestories.org](https://github.com/opensourcestories/opensourcestories.org) into your own GitHub account.
 
-We recommend creating a new branch for the new story, but this is optional.
+  - Reminder: When you clone this repository, _be sure to get the submodules_! 
+
+  ```shell
+    git clone --recurse-submodules --depth 1 https://github.com/opensourcestories/opensourcestories.org.git 
+  ```
+
+- If you already have a fork, you may want to make sure it is up-to-date.
+
+- We recommend creating a new branch for the new story, but this is optional.
 
 ## 2. Create a new content page
 
