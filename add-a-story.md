@@ -18,6 +18,8 @@ Once you have a transcript *and* have uploaded a draft to [StoryCorps Connect](h
 
 - We recommend creating a new branch for the new story, but this is optional.
 
+    - Details on how to [create a branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch)
+
 ## 2. Create a new content page
 
 To generate a markdown file with the correct front matter, use the `hugo` command from the root directory:
