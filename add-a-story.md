@@ -73,4 +73,4 @@ and navigate to `localhost:1313` (or whichever port [Hugo tells you](https://goh
 
 ## 5. Submit it to the repo
 
-Once you're happy with it, make sure to set the `draft` to false, and push the changes to your fork. From there, submit [a pull request to the main repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)!
+Once you're happy with it, make sure to set the `draft` to false, and push the changes to your fork. From there, submit [a pull request to the base repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)!
