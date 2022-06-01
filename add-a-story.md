@@ -49,6 +49,8 @@ draft: true
 
 *storycorps*: the URL `https://archive.storycorps.org/embed/{story id}`, where the {story id} is the numeric portion of your uploaded StoryCorps interview ID
 
+- For example, click through one of the current [Open Source Stories interviews](https://archive.storycorps.org/communities/open-source-stories/) to see the ID field on the interview page, e.g. [ID: APP3543191](https://archive.storycorps.org/interviews/julia-ferraioli-5/)
+
 *bio*: the 2-3 sentence bio that the storyteller provided
 
 *draft*: true or false, depending if the page is ready for publishing
