@@ -1,6 +1,6 @@
 # How to add a story
 
-Once you have a transcript *and* have uploaded a draft to to [StoryCorps Connect](https://storycorps.org/participate/storycorps-connect/), follow these steps to add it to [opensourcestories.org](https://opensourcestories.org). These instructions assume that you have followed the [setup instructions](https://github.com/opensourcestories/opensourcestories.org#setup).
+Once you have a transcript *and* have uploaded a draft to [StoryCorps Connect](https://storycorps.org/participate/storycorps-connect/), follow these steps to add it to [opensourcestories.org](https://opensourcestories.org). These instructions assume that you have followed the [setup instructions](https://github.com/opensourcestories/opensourcestories.org#setup).
 
 ## 1. Fork and branch
 
@@ -55,7 +55,7 @@ draft: true
 
 *bio*: the 2-3 sentence bio that the storyteller provided
 
-*draft*: true or false, depending if the page is ready for publishing
+*draft*: true or false, depending on whether the page is ready for publishing
 
 Under the `---`, paste the markdown of the transcript.
 
