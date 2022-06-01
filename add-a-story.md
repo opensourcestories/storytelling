@@ -69,7 +69,7 @@ Run the local server using the command:
 $ hugo server -D
 ```
 
-and navigate to `localhost:1313` (or whichever port Hugo tells you).
+and navigate to `localhost:1313` (or whichever port [Hugo tells you](https://gohugo.io/getting-started/usage/#livereload)).
 
 ## 5. Submit it to the repo
 
