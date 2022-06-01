@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "aclairefication",
+      "name": "Claire Moss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2000944?v=4",
+      "profile": "http://aclairefication.com",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "storytelling",
+  "projectOwner": "opensourcestories",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
