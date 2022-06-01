@@ -1,6 +1,6 @@
 # How to add a story
 
-Once you have a transcript *and* have uploaded a draft to to StoryCorps Connect, follow these steps to add it to [opensourcestories.org](https://opensourcestories.org). These instructions assume that you have followed the [setup instructions](https://github.com/opensourcestories/opensourcestories.org#setup).
+Once you have a transcript *and* have uploaded a draft to [StoryCorps Connect](https://storycorps.org/participate/storycorps-connect/), follow these steps to add it to [opensourcestories.org](https://opensourcestories.org). These instructions assume that you have followed the [setup instructions](https://github.com/opensourcestories/opensourcestories.org#setup).
 
 ## 1. Fork and branch
 
@@ -14,11 +14,15 @@ Once you have a transcript *and* have uploaded a draft to to StoryCorps Connect,
 
 - If you already have a fork, you may want to make sure it is up-to-date.
 
+    - There are 3 easy ways to [sync your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)  
+
 - We recommend creating a new branch for the new story, but this is optional.
+
+    - Details on how to [create a branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch)
 
 ## 2. Create a new content page
 
-To generate a markdown file with the correct front matter, use the `hugo` command from the root directory:
+To generate a markdown file with the correct [front matter](https://gohugo.io/content-management/front-matter/), use the `hugo` command from the root directory:
 
 ```shell
 $ hugo new stories/{year}/{person name}.md
@@ -49,9 +53,11 @@ draft: true
 
 *storycorps*: the URL `https://archive.storycorps.org/embed/{story id}`, where the {story id} is the numeric portion of your uploaded StoryCorps interview ID
 
+- For example, click through one of the current [Open Source Stories interviews](https://archive.storycorps.org/communities/open-source-stories/) to see the ID field on the interview page, e.g. [ID: APP3543191](https://archive.storycorps.org/interviews/julia-ferraioli-5/)
+
 *bio*: the 2-3 sentence bio that the storyteller provided
 
-*draft*: true or false, depending if the page is ready for publishing
+*draft*: true or false, depending on whether the page is ready for publishing
 
 Under the `---`, paste the markdown of the transcript.
 
@@ -63,8 +69,8 @@ Run the local server using the command:
 $ hugo server -D
 ```
 
-and navigate to `localhost:1313` (or whichever port Hugo tells you).
+and navigate to `localhost:1313` (or whichever port [Hugo tells you](https://gohugo.io/getting-started/usage/#livereload)).
 
 ## 5. Submit it to the repo
 
-Once you're happy with it, make sure to set the `draft` to false, and push the changes to your fork. From there, submit a pull request to the main repository!
+Once you're happy with it, make sure to set the `draft` to false, and push the changes to your fork. From there, submit [a pull request to the base repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)!
