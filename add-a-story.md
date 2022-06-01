@@ -14,6 +14,8 @@ Once you have a transcript *and* have uploaded a draft to to [StoryCorps Connect
 
 - If you already have a fork, you may want to make sure it is up-to-date.
 
+    - There are 3 easy ways to [sync your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)  
+
 - We recommend creating a new branch for the new story, but this is optional.
 
 ## 2. Create a new content page
