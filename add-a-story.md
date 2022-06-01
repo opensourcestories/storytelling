@@ -22,7 +22,7 @@ Once you have a transcript *and* have uploaded a draft to [StoryCorps Connect](h
 
 ## 2. Create a new content page
 
-To generate a markdown file with the correct front matter, use the `hugo` command from the root directory:
+To generate a markdown file with the correct [front matter](https://gohugo.io/content-management/front-matter/), use the `hugo` command from the root directory:
 
 ```shell
 $ hugo new stories/{year}/{person name}.md
