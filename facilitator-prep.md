@@ -26,7 +26,7 @@ Welcome to the very important role of facilitating storytelling sessions.
 
 * Are you signed into the communication channel you've been using to coordinate with the storyteller?
 
-* Have you checked your audio recording channels?
+* Have you checked your audio recording channels? We recommend (if possible) capturing each audio stream separately.
 
 * Do you have access to all of the docs and information you need to facilitate a storyteller? 
 
