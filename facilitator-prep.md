@@ -14,7 +14,7 @@ Welcome to the very important role of facilitating storytelling sessions.
 
 * Create a copy of [Storyteller Session Prep](https://github.com/opensourcestories/storytelling/session-prep-template.md).
 
-  * Coordinate with storyteller to fill out personal information in the prep material.
+  * Copy over storyteller personal information from calendar invite into the prep material.
 
   * Choose your Flow from [Conversation Flow for Open Source Storytellers](bit.ly/opensource-storytelling-conversation-flow)
 
