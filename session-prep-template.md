@@ -14,7 +14,7 @@
 
 * [OPTIONAL] Your Twitter handle is private; would you prefer to have us not link to it when promoting the story?
 
-## STORYTELLER SESSION FLOW
+## Storyteller Session Flow
 
 * Choose your Flow from [Conversation Flow for Open Source Storytellers](bit.ly/opensource-storytelling-conversation-flow)
 
@@ -22,7 +22,7 @@
 
 * Remember to ask for parting thoughts + thank the storyteller
 
-## PRODUCTION NOTE FOR STORYCORPS CONNECT
+### PRODUCTION NOTE FOR STORYCORPS CONNECT
 
 * DO NOT CLICK STOP UNTIL YOU ARE DONE
 
