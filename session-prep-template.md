@@ -2,11 +2,11 @@
 
 ## Personal information
 
-* Name pronounciation:
+* Name pronounciation: [add from meeting invite]
 
-* Pronouns:
+* Pronouns: [add from meeting invite]
 
-* Short bio:
+* Short bio: [add from meeting invite]
 
 ## Questions before starting the recording
 
@@ -31,5 +31,3 @@
 * Transcription make take a couple of weeks, after that we will share the draft with you
 * If we don’t get any corrections within ~4 days (though that’s negotiable if something comes up) we will go ahead and publish it
 * You can always request changes to the published version if you catch something later!
-
-
