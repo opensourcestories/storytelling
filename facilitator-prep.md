@@ -2,7 +2,7 @@
 
 Welcome to the very important role of facilitating storytelling sessions.
 
-##1. Confirm your schedule with a storyteller.
+## 1. Confirm your schedule with a storyteller.
 
 * Keep your availability in the team schedule organizer up to date. This is the calendar which storytellers will use to schedule sessions with you.
 
@@ -10,7 +10,7 @@ Welcome to the very important role of facilitating storytelling sessions.
 
 * Life happens and schedules change. Communicate as early as possible with your storyteller and our project leads if you need to reschedule or cancel a session.
 
-##1. Do your facilitation homework.
+## 1. Do your facilitation homework.
 
 * Create a copy of [Storyteller Session Prep](https://github.com/opensourcestories/storytelling/session-prep-template.md).
 
@@ -22,7 +22,7 @@ Welcome to the very important role of facilitating storytelling sessions.
 
 * We respect the time we spend with each other. Read the prep doc.
 
-##1. Check your recording and admin setup.
+## 1. Check your recording and admin setup.
 
 * Are you signed into the communication channel you've been using to coordinate with the storyteller?
 
@@ -30,6 +30,6 @@ Welcome to the very important role of facilitating storytelling sessions.
 
 * Do you have access to all of the docs and information you need to facilitate a storyteller? 
 
-##1. Arrive early.
+## 1. Arrive early.
 
 * Be on the right platform at the right time.
