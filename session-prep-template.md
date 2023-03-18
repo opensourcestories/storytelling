@@ -16,7 +16,7 @@
 
 ## Storyteller Session Flow
 
-* Choose your Flow from [Conversation Flow for Open Source Storytellers](bit.ly/opensource-storytelling-conversation-flow)
+* Choose your Flow from [Conversation Flow for Open Source Storytellers](https://bit.ly/opensource-storytelling-conversation-flow)
 
 * Additional sample questions are available in our shared [story-questions bank](https://github.com/opensourcestories/story-questions)
 
